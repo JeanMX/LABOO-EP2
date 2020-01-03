@@ -1,0 +1,534 @@
+# depslib dependency file v1.0
+1572440409 source:c:\users\jean_\desktop\poli\2ºsem\laboo\ep2\ep2\equipe.cpp
+	"Equipe.h"
+
+1572440295 c:\users\jean_\desktop\poli\2ºsem\laboo\ep2\ep2\equipe.h
+	<iostream>
+	<string>
+
+1572440370 source:c:\users\jean_\desktop\poli\2ºsem\laboo\ep2\ep2\main.cpp
+	<iostream>
+	"Equipe.h"
+
+1573048743 source:c:\users\jean_\desktop\poli\2ºsem\laboo\ep2\ep2\modalidade.cpp
+	"Modalidade.h"
+
+1573047676 c:\users\jean_\desktop\poli\2ºsem\laboo\ep2\ep2\modalidade.h
+	<iostream>
+	<string>
+	<stdexcept>
+	"Tabela.h"
+	"Equipe.h"
+	"TabelaComOrdem.h"
+
+1573045085 c:\users\jean_\desktop\poli\2ºsem\laboo\ep2\ep2\tabela.h
+	<iostream>
+	<string>
+	"Equipe.h"
+
+1573048743 c:\users\jean_\desktop\poli\2ºsem\laboo\ep2\ep2\tabelacomordem.h
+	<iostream>
+	"Tabela.h"
+	"Equipe.h"
+
+1573045081 source:c:\users\jean_\desktop\poli\2ºsem\laboo\ep2\ep2\tabela.cpp
+	"Tabela.h"
+
+1573047952 source:c:\users\jean_\desktop\poli\2ºsem\laboo\ep2\ep2\tabelacomordem.cpp
+	"TabelaComOrdem.h"
+
+1572952554 source:c:\users\jean_\desktop\poli\2ºsem\laboo\ep2\ep2\competicao.cpp
+	"Competicao.h"
+
+1572952227 c:\users\jean_\desktop\poli\2ºsem\laboo\ep2\ep2\competicao.h
+	<iostream>
+	"Equipe.h"
+	"Tabela.h"
+
+1573045090 source:c:\users\jean_\desktop\poli\2ºsem\laboo\ep2\ep2\tabelacompontos.cpp
+	"TabelaComPontos.h"
+
+1573048806 c:\users\jean_\desktop\poli\2ºsem\laboo\ep2\ep2\tabelacompontos.h
+	<iostream>
+	"Equipe.h"
+	"Tabela.h"
+
+1572952588 source:c:\users\jean_\desktop\poli\2ºsem\laboo\ep2\ep2\competicaomultimodalidades.cpp
+	"CompeticaoMultimodalidades.h"
+
+1573047068 c:\users\jean_\desktop\poli\2ºsem\laboo\ep2\ep2\competicaomultimodalidades.h
+	<iostream>
+	<list>
+	<vector>
+	"Modalidade.h"
+	"Equipe.h"
+
+1572952626 source:c:\users\jean_\desktop\poli\2ºsem\laboo\ep2\ep2\competicaosimples.cpp
+	"CompeticaoSimples.h"
+
+1572952617 c:\users\jean_\desktop\poli\2ºsem\laboo\ep2\ep2\competicaosimples.h
+	<iostream>
+	<string>
+	"Equipe.h"
+	"Modalidade.h"
+
+1573132775 source:c:\users\guilherme\desktop\usp\semestre 2\laboo\ep2\ep2-0711\ep2\competicao.cpp
+	"Competicao.h"
+
+1573132775 c:\users\guilherme\desktop\usp\semestre 2\laboo\ep2\ep2-0711\ep2\competicao.h
+	<iostream>
+	<string>
+	"Equipe.h"
+	"Tabela.h"
+
+1573132776 c:\users\guilherme\desktop\usp\semestre 2\laboo\ep2\ep2-0711\ep2\equipe.h
+	<iostream>
+	<string>
+
+1573132775 c:\users\guilherme\desktop\usp\semestre 2\laboo\ep2\ep2-0711\ep2\tabela.h
+	<iostream>
+	<string>
+	"Equipe.h"
+
+1573239543 source:c:\users\guilherme\desktop\usp\semestre 2\laboo\ep2\ep2-0711\ep2\competicaomultimodalidades.cpp
+	"CompeticaoMultimodalidades.h"
+
+1573239652 c:\users\guilherme\desktop\usp\semestre 2\laboo\ep2\ep2-0711\ep2\competicaomultimodalidades.h
+	<iostream>
+	<list>
+	<vector>
+	"Modalidade.h"
+	"Equipe.h"
+	"Competicao.h"
+	<vector>
+
+1573132776 c:\users\guilherme\desktop\usp\semestre 2\laboo\ep2\ep2-0711\ep2\modalidade.h
+	<iostream>
+	<string>
+	<stdexcept>
+	"Tabela.h"
+	"Equipe.h"
+	"TabelaComOrdem.h"
+
+1573132776 c:\users\guilherme\desktop\usp\semestre 2\laboo\ep2\ep2-0711\ep2\tabelacomordem.h
+	<iostream>
+	"Tabela.h"
+	"Equipe.h"
+
+1573134112 source:c:\users\guilherme\desktop\usp\semestre 2\laboo\ep2\ep2-0711\ep2\competicaosimples.cpp
+	"CompeticaoSimples.h"
+
+1573134276 c:\users\guilherme\desktop\usp\semestre 2\laboo\ep2\ep2-0711\ep2\competicaosimples.h
+	<iostream>
+	<string>
+	"Equipe.h"
+	"Modalidade.h"
+	"Competicao.h"
+
+1573132775 source:c:\users\guilherme\desktop\usp\semestre 2\laboo\ep2\ep2-0711\ep2\equipe.cpp
+	"Equipe.h"
+
+1573428962 source:c:\users\guilherme\desktop\usp\semestre 2\laboo\ep2\ep2-0711\ep2\main.cpp
+	<iostream>
+	"Equipe.h"
+
+1573132776 source:c:\users\guilherme\desktop\usp\semestre 2\laboo\ep2\ep2-0711\ep2\modalidade.cpp
+	"Modalidade.h"
+
+1573132776 source:c:\users\guilherme\desktop\usp\semestre 2\laboo\ep2\ep2-0711\ep2\tabela.cpp
+	"Tabela.h"
+
+1573133132 source:c:\users\guilherme\desktop\usp\semestre 2\laboo\ep2\ep2-0711\ep2\tabelacomordem.cpp
+	"TabelaComOrdem.h"
+
+1573133346 source:c:\users\guilherme\desktop\usp\semestre 2\laboo\ep2\ep2-0711\ep2\tabelacompontos.cpp
+	"TabelaComPontos.h"
+
+1573132775 c:\users\guilherme\desktop\usp\semestre 2\laboo\ep2\ep2-0711\ep2\tabelacompontos.h
+	<iostream>
+	"Equipe.h"
+	"Tabela.h"
+
+1573576341 source:c:\users\11261191\downloads\ep-12-11\ep-11-11\ep2\competicao.cpp
+	"Competicao.h"
+
+1573576341 c:\users\11261191\downloads\ep-12-11\ep-11-11\ep2\competicao.h
+	<iostream>
+	<string>
+	"Equipe.h"
+	"Tabela.h"
+
+1573576341 c:\users\11261191\downloads\ep-12-11\ep-11-11\ep2\equipe.h
+	<iostream>
+	<string>
+
+1573576341 c:\users\11261191\downloads\ep-12-11\ep-11-11\ep2\tabela.h
+	<iostream>
+	<string>
+	"Equipe.h"
+
+1573584922 source:c:\users\11261191\downloads\ep-12-11\ep-11-11\ep2\competicaomultimodalidades.cpp
+	"CompeticaoMultimodalidades.h"
+
+1573584504 c:\users\11261191\downloads\ep-12-11\ep-11-11\ep2\competicaomultimodalidades.h
+	<iostream>
+	<list>
+	<vector>
+	"Modalidade.h"
+	"Equipe.h"
+	"Competicao.h"
+	"TabelaComPontos.h"
+	<vector>
+
+1573576341 c:\users\11261191\downloads\ep-12-11\ep-11-11\ep2\modalidade.h
+	<iostream>
+	<string>
+	<stdexcept>
+	"Tabela.h"
+	"Equipe.h"
+	"TabelaComOrdem.h"
+
+1573576341 c:\users\11261191\downloads\ep-12-11\ep-11-11\ep2\tabelacomordem.h
+	<iostream>
+	"Tabela.h"
+	"Equipe.h"
+
+1573580561 source:c:\users\11261191\downloads\ep-12-11\ep-11-11\ep2\competicaosimples.cpp
+	"CompeticaoSimples.h"
+
+1573576341 c:\users\11261191\downloads\ep-12-11\ep-11-11\ep2\competicaosimples.h
+	<iostream>
+	<string>
+	"Equipe.h"
+	"Modalidade.h"
+	"Competicao.h"
+
+1573576341 source:c:\users\11261191\downloads\ep-12-11\ep-11-11\ep2\equipe.cpp
+	"Equipe.h"
+
+1573576341 source:c:\users\11261191\downloads\ep-12-11\ep-11-11\ep2\main.cpp
+	<iostream>
+	"Equipe.h"
+
+1573576341 source:c:\users\11261191\downloads\ep-12-11\ep-11-11\ep2\modalidade.cpp
+	"Modalidade.h"
+
+1573576341 source:c:\users\11261191\downloads\ep-12-11\ep-11-11\ep2\tabela.cpp
+	"Tabela.h"
+
+1573585007 source:c:\users\11261191\downloads\ep-12-11\ep-11-11\ep2\tabelacomordem.cpp
+	"TabelaComOrdem.h"
+
+1573585007 source:c:\users\11261191\downloads\ep-12-11\ep-11-11\ep2\tabelacompontos.cpp
+	"TabelaComPontos.h"
+
+1573578644 c:\users\11261191\downloads\ep-12-11\ep-11-11\ep2\tabelacompontos.h
+	<iostream>
+	"Equipe.h"
+	"Tabela.h"
+
+1574081215 source:c:\users\guilherme\downloads\ep2-12-11-ultimo\ep2\competicao.cpp
+	"Competicao.h"
+
+1574080957 c:\users\guilherme\downloads\ep2-12-11-ultimo\ep2\competicao.h
+	<stdexcept>
+	<iostream>
+	<string>
+	"Equipe.h"
+	"Tabela.h"
+
+1574080575 c:\users\guilherme\downloads\ep2-12-11-ultimo\ep2\equipe.h
+	<iostream>
+	<string>
+	<stdexcept>
+
+1574080957 c:\users\guilherme\downloads\ep2-12-11-ultimo\ep2\tabela.h
+	<iostream>
+	<string>
+	<stdexcept>
+	"Equipe.h"
+
+1573758159 source:c:\users\guilherme\downloads\ep2-12-11-ultimo\ep2\competicaomultimodalidades.cpp
+	"CompeticaoMultimodalidades.h"
+
+1574080957 c:\users\guilherme\downloads\ep2-12-11-ultimo\ep2\competicaomultimodalidades.h
+	<iostream>
+	<list>
+	<vector>
+	<stdexcept>
+	"Modalidade.h"
+	"Equipe.h"
+	"Competicao.h"
+	"TabelaComPontos.h"
+
+1573585269 c:\users\guilherme\downloads\ep2-12-11-ultimo\ep2\modalidade.h
+	<iostream>
+	<string>
+	<stdexcept>
+	"Tabela.h"
+	"Equipe.h"
+	"TabelaComOrdem.h"
+
+1573585269 c:\users\guilherme\downloads\ep2-12-11-ultimo\ep2\tabelacomordem.h
+	<iostream>
+	"Tabela.h"
+	"Equipe.h"
+
+1573585270 c:\users\guilherme\downloads\ep2-12-11-ultimo\ep2\tabelacompontos.h
+	<iostream>
+	"Equipe.h"
+	"Tabela.h"
+
+1574108574 source:c:\users\guilherme\downloads\ep2-12-11-ultimo\ep2\competicaosimples.cpp
+	"CompeticaoSimples.h"
+
+1574080957 c:\users\guilherme\downloads\ep2-12-11-ultimo\ep2\competicaosimples.h
+	<iostream>
+	<string>
+	<stdexcept>
+	"Equipe.h"
+	"Modalidade.h"
+	"Competicao.h"
+
+1573585270 source:c:\users\guilherme\downloads\ep2-12-11-ultimo\ep2\equipe.cpp
+	"Equipe.h"
+
+1574108894 source:c:\users\guilherme\downloads\ep2-12-11-ultimo\ep2\modalidade.cpp
+	"Modalidade.h"
+
+1573585270 source:c:\users\guilherme\downloads\ep2-12-11-ultimo\ep2\tabela.cpp
+	"Tabela.h"
+
+1574106365 source:c:\users\guilherme\downloads\ep2-12-11-ultimo\ep2\tabelacomordem.cpp
+	"TabelaComOrdem.h"
+
+1574106952 source:c:\users\guilherme\downloads\ep2-12-11-ultimo\ep2\tabelacompontos.cpp
+	"TabelaComPontos.h"
+
+1574108457 source:c:\users\guilherme\downloads\ep2-12-11-ultimo\ep2\main.cpp
+	<iostream>
+	<list>
+	<vector>
+	"Equipe.h"
+	"TabelaComPontos.h"
+	"TabelaComOrdem.h"
+	"Modalidade.h"
+	"CompeticaoMultimodalidades.h"
+	"CompeticaoSimples.h"
+
+1573750838 source:c:\users\guilherme\downloads\ep2-12-11-ultimo\ep2\persistenciadecompeticao.cpp
+	"PersistenciaDeCompeticao.h"
+
+1573667250 c:\users\guilherme\downloads\ep2-12-11-ultimo\ep2\persistenciadecompeticao.h
+	<iostream>
+	<string>
+	<fstream>
+	"Competicao.h"
+	"CompeticaoSimples.h"
+	"CompeticaoMultimodalidades.h"
+	"Modalidade.h"
+
+1574188853 source:c:\users\jean_\desktop\ep2-18-11\ep2\competicao.cpp
+	"Competicao.h"
+
+1574098776 c:\users\jean_\desktop\ep2-18-11\ep2\competicao.h
+	<stdexcept>
+	<iostream>
+	<string>
+	"Equipe.h"
+	"Tabela.h"
+
+1574098780 c:\users\jean_\desktop\ep2-18-11\ep2\equipe.h
+	<iostream>
+	<string>
+	<stdexcept>
+
+1574098784 c:\users\jean_\desktop\ep2-18-11\ep2\tabela.h
+	<iostream>
+	<string>
+	<stdexcept>
+	"Equipe.h"
+
+1574187185 source:c:\users\jean_\desktop\ep2-18-11\ep2\competicaomultimodalidades.cpp
+	"CompeticaoMultimodalidades.h"
+
+1574098776 c:\users\jean_\desktop\ep2-18-11\ep2\competicaomultimodalidades.h
+	<iostream>
+	<list>
+	<vector>
+	<stdexcept>
+	"Modalidade.h"
+	"Equipe.h"
+	"Competicao.h"
+	"TabelaComPontos.h"
+
+1574098780 c:\users\jean_\desktop\ep2-18-11\ep2\modalidade.h
+	<iostream>
+	<string>
+	<stdexcept>
+	"Tabela.h"
+	"Equipe.h"
+	"TabelaComOrdem.h"
+
+1574098784 c:\users\jean_\desktop\ep2-18-11\ep2\tabelacomordem.h
+	<iostream>
+	"Tabela.h"
+	"Equipe.h"
+
+1574160456 c:\users\jean_\desktop\ep2-18-11\ep2\tabelacompontos.h
+	<iostream>
+	"Equipe.h"
+	"Tabela.h"
+
+1574187672 source:c:\users\jean_\desktop\ep2-18-11\ep2\competicaosimples.cpp
+	"CompeticaoSimples.h"
+
+1574098776 c:\users\jean_\desktop\ep2-18-11\ep2\competicaosimples.h
+	<iostream>
+	<string>
+	<stdexcept>
+	"Equipe.h"
+	"Modalidade.h"
+	"Competicao.h"
+
+1574098780 source:c:\users\jean_\desktop\ep2-18-11\ep2\equipe.cpp
+	"Equipe.h"
+
+1574098784 source:c:\users\jean_\desktop\ep2-18-11\ep2\tabela.cpp
+	"Tabela.h"
+
+1574184638 source:c:\users\jean_\desktop\ep2-18-11\ep2\tabelacompontos.cpp
+	"TabelaComPontos.h"
+
+1574187408 source:c:\users\jean_\desktop\ep2-18-11\ep2\main.cpp
+	<iostream>
+	<list>
+	<vector>
+	"Equipe.h"
+	"TabelaComPontos.h"
+	"TabelaComOrdem.h"
+	"Modalidade.h"
+	"CompeticaoMultimodalidades.h"
+	"CompeticaoSimples.h"
+	"PersistenciaDeCompeticao.h"
+
+1574098782 c:\users\jean_\desktop\ep2-18-11\ep2\persistenciadecompeticao.h
+	<iostream>
+	<string>
+	<fstream>
+	"Competicao.h"
+	"CompeticaoSimples.h"
+	"CompeticaoMultimodalidades.h"
+	"Modalidade.h"
+
+1574124013 source:c:\users\jean_\desktop\ep2-18-11\ep2\modalidade.cpp
+	"Modalidade.h"
+
+1574188853 source:c:\users\jean_\desktop\ep2-18-11\ep2\persistenciadecompeticao.cpp
+	"PersistenciaDeCompeticao.h"
+
+1574121347 source:c:\users\jean_\desktop\ep2-18-11\ep2\tabelacomordem.cpp
+	"TabelaComOrdem.h"
+
+1574193833 source:c:\users\guilherme\downloads\ep2-final\competicao.cpp
+	"Competicao.h"
+
+1574193833 c:\users\guilherme\downloads\ep2-final\competicao.h
+	<stdexcept>
+	<iostream>
+	<string>
+	"Equipe.h"
+	"Tabela.h"
+
+1574193833 c:\users\guilherme\downloads\ep2-final\equipe.h
+	<iostream>
+	<string>
+	<stdexcept>
+
+1574193833 c:\users\guilherme\downloads\ep2-final\tabela.h
+	<iostream>
+	<string>
+	<stdexcept>
+	"Equipe.h"
+
+1574211288 source:c:\users\guilherme\downloads\ep2-final\competicaomultimodalidades.cpp
+	"CompeticaoMultimodalidades.h"
+
+1574193833 c:\users\guilherme\downloads\ep2-final\competicaomultimodalidades.h
+	<iostream>
+	<list>
+	<vector>
+	<stdexcept>
+	"Modalidade.h"
+	"Equipe.h"
+	"Competicao.h"
+	"TabelaComPontos.h"
+
+1574193833 c:\users\guilherme\downloads\ep2-final\modalidade.h
+	<iostream>
+	<string>
+	<stdexcept>
+	"Tabela.h"
+	"Equipe.h"
+	"TabelaComOrdem.h"
+
+1574193833 c:\users\guilherme\downloads\ep2-final\tabelacomordem.h
+	<iostream>
+	"Tabela.h"
+	"Equipe.h"
+
+1574193833 c:\users\guilherme\downloads\ep2-final\tabelacompontos.h
+	<iostream>
+	"Equipe.h"
+	"Tabela.h"
+
+1574193833 source:c:\users\guilherme\downloads\ep2-final\competicaosimples.cpp
+	"CompeticaoSimples.h"
+
+1574193833 c:\users\guilherme\downloads\ep2-final\competicaosimples.h
+	<iostream>
+	<string>
+	<stdexcept>
+	"Equipe.h"
+	"Modalidade.h"
+	"Competicao.h"
+
+1574193833 source:c:\users\guilherme\downloads\ep2-final\equipe.cpp
+	"Equipe.h"
+
+1574211288 source:c:\users\guilherme\downloads\ep2-final\modalidade.cpp
+	"Modalidade.h"
+
+1574193833 source:c:\users\guilherme\downloads\ep2-final\persistenciadecompeticao.cpp
+	"PersistenciaDeCompeticao.h"
+
+1574193833 c:\users\guilherme\downloads\ep2-final\persistenciadecompeticao.h
+	<iostream>
+	<string>
+	<fstream>
+	"Competicao.h"
+	"CompeticaoSimples.h"
+	"CompeticaoMultimodalidades.h"
+	"Modalidade.h"
+
+1574193833 source:c:\users\guilherme\downloads\ep2-final\tabela.cpp
+	"Tabela.h"
+
+1574210052 source:c:\users\guilherme\downloads\ep2-final\tabelacomordem.cpp
+	"TabelaComOrdem.h"
+
+1574210780 source:c:\users\guilherme\downloads\ep2-final\tabelacompontos.cpp
+	"TabelaComPontos.h"
+
+1574207713 source:c:\users\guilherme\downloads\ep2-final\main.cpp
+	<iostream>
+	<list>
+	<vector>
+	"Equipe.h"
+	"TabelaComPontos.h"
+	"TabelaComOrdem.h"
+	"Modalidade.h"
+	"CompeticaoMultimodalidades.h"
+	"CompeticaoSimples.h"
+	"PersistenciaDeCompeticao.h"
+
